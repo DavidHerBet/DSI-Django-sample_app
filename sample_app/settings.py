@@ -126,6 +126,8 @@ INSTALLED_APPS = (
     # 'django.contrib.admindocs',
     'my_app',
     'lettuce.django',
+    'foobar',
+    'donothing',
 )
 
 # A sample logging configuration. The only tangible logging
